@@ -8,11 +8,8 @@
 Este repositório contém exercícios e projetos práticos desenvolvidos para a disciplina de **Organização e Arquitetura de Computadores**.
 O foco principal é o estudo da arquitetura **MIPS32 (RISC)** utilizando o simulador **MARS**.
 
-## Estrutura de Pastas
+## Estrutura de pastas:
 
-A organização do ambiente de desenvolvimento é a seguinte:
-
-```text
 Assembly/
 ├── Mars4_5.jar       # Simulador MIPS (Não versionado neste repositório)
 ├── README.md         # Documentação
