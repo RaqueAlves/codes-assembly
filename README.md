@@ -9,14 +9,14 @@ Este repositório contém exercícios e projetos práticos desenvolvidos para a 
 O foco principal é o estudo da arquitetura **MIPS32 (RISC)** utilizando o simulador **MARS**.
 
 ## Estrutura de pastas:
-
+```
 Assembly/
 ├── Mars4_5.jar       # Simulador MIPS (Não versionado neste repositório)
 ├── README.md         # Documentação
 └── code/             # Código Fonte (.asm) dos projetos
     ├── code01/
     └── ...
-
+```
 ## Configuração do Ambiente
 Para rodar os códigos deste repositório, é necessário configurar o ambiente conforme abaixo:
 
